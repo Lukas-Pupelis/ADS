@@ -3,6 +3,7 @@ VIP bank. We have a task to research two queue forming processes for the bank:
 With a distinct VIP queue and VIP cashiers.
 Or a common queue for both ordinary and VIP clients, but VIP clients
 have a priority.
+Data file needs to be named "data.txt"
 */
 #include <iostream>
 #include <iomanip>
