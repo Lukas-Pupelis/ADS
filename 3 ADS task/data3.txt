@@ -1,0 +1,8 @@
+20 // paprasto kliento atėjimo tikimybė (%)
+20 // VIP kliento atėjimo tikimybė (%)
+50 // paprastus klientus aptarnaujančių kasininkų skaičius
+50 // VIP klientus aptarnaujančių kasininkų skaičius
+40 // paprastų klientų aptarnavimo laikas (min)
+40 // VIP klientų aptarnavimo laikas(min)
+8 // darbo dienos ilgis (val)
+9 // valandinis darbo užmokestis (eur)
